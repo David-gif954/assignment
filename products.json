@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "ox111",
+    "image": "../images/oxford_01.jpg",
+    "price": "GHC 350",
+    "size": "41, 43",
+    "collection": "oxfords"
+  },
+  {
+    "id": 2,
+    "name": "Dane Cap Toe Oxford",
+    "image":"../images/Dane Cap Toe Oxford.jpg",
+    "price": "GHC 400",
+    "size": "40, 41",
+    "collection": "oxfords"
+  },
+  {
+    "id": 3,
+    "name": "Upton Plain Toe Derby",
+    "image":"../images/Upton Plain Toe Derby.jpg",
+    "price": "GHC 570",
+    "size": "39, 43",
+    "collection": "oxfords"
+  },
+  {
+    "id": 4,
+    "name": "bo222",
+    "image":"../images/oxford_03.jpg",
+    "price": "GHC 250",
+    "size": "40, 43",
+    "collection": "oxfords"
+  },
+  {
+    "id": 4,
+    "name": "ZeroGrand Laser Wing Oxford",
+    "image":"../images/ZeroGrand Laser Wing Oxford.jpg",
+    "price": "GHC 250",
+    "size": "40, 43",
+    "collection": "oxfords"
+  },
+  {
+    "id": 4,
+    "name": "Dax Plain Toe Derby",
+    "image":"../images/Dax Plain Toe Derby.jpg",
+    "price": "GHC 250",
+    "size": "40, 43",
+    "collection": "oxfords"
+  },
+  {
+    "id": 5,
+    "name": "Grand Laser Penny Loafer Driving Shoe",
+    "image":"../images/Grand Laser Penny Loafer Driving Shoe.jpg",
+    "price": "GHC 570",
+    "size": "39, 43",
+    "collection": "loafers"
+  },
+  {
+    "id": 6,
+    "name": "Walden Penny Loafer",
+    "image":"../images/Walden Penny Loafer.jpg",
+    "price": "GHC 250",
+    "size": "40, 43",
+    "collection": "loafers"
+  },
+  {
+    "id": 7,
+    "name": "Wall Street Bit Loafer Driving Shoe",
+    "image":"../images/Wall Street Bit Loafer Driving Shoe.jpg",
+    "price": "GHC 250",
+    "size": "40, 43",
+    "collection": "loafers"
+  },
+  {
+    "id": 8,
+    "name": "O'Conner Penny Loafer",
+    "image":"../images/O'Conner Penny Loafer.jpg",
+    "price": "GHC 250",
+    "size": "40, 43",
+    "collection": "loafers"
+  },
+  {
+    "id": 8,
+    "name": "lof222",
+    "image":"../images/loafer_01.jpg",
+    "price": "GHC 250",
+    "size": "40, 43",
+    "collection": "loafers"
+  },
+  {
+    "id": 9,
+    "name": "lof111",
+    "image":"../images/boot_01.jpg",
+    "price": "GHC 570",
+    "size": "39, 43",
+    "collection": "boots"
+  },
+  {
+    "id": 10,
+    "name": "Laker Combat Boot",
+    "image":"../images/Laker Combat Boot.jpg",
+    "price": "GHC 250",
+    "size": "40, 43",
+    "collection": "boots"
+  },
+  {
+    "id": 11,
+    "name": "Raleigh XC Fles Chelsea Boot",
+    "image":"../images/Raleigh XC Fles Chelsea Boot.jpg",
+    "price": "GHC 250",
+    "size": "40, 43",
+    "collection": "boots"
+  },
+  {
+    "id": 12,
+    "name": "Holand Chelsea Boot",
+    "image":"../images/Holand Chelsea Boot.jpg",
+    "price": "GHC 250",
+    "size": "40, 43",
+    "collection": "boots"
+  },
+  {
+    "id": 12,
+    "name": "Holand Chelsea Boot",
+    "image":"../images/Holand Chelsea Boot.jpg",
+    "price": "GHC 250",
+    "size": "40, 43",
+    "collection": "boots"
+  }
+]
